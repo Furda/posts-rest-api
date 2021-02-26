@@ -1,7 +1,7 @@
 # User and Post REST API
 
-• Users can sign up and log in
-• Users can create, edit, and delete their own posts
+* Users can sign up and log in
+* Users can create, edit, and delete their own posts
 
 ## Getting Started
 
